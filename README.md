@@ -6,3 +6,9 @@ TaskTap یک مارکت‌پلیس آنی است که افراد می‌توان
 ---
 
 ## 📂 ساختار پروژه
+
+TaskTap/
+├── frontend/ # UI - Next.js/React
+├── backend/ # API - Node.js/Express
+├── docs/ # مستندات (Pitch Deck, Business Plan, UI Flow)
+└── .github/workflows/ # CI/CD Workflow
